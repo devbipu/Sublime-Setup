@@ -1,0 +1,8 @@
+// Settings in here override those in "/JsPrettier/JsPrettier.sublime-settings",
+
+{
+	"vueIndentScriptAndStyle": true,
+	"semi": false,
+	"singleQuote": true,
+	"auto_format_on_save": false
+}

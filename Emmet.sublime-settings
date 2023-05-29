@@ -1,0 +1,8 @@
+{
+	"tag_preview": true, 
+	"preferences": {
+	    "css.autoprefixer": ">last 2 versions",
+	},
+	"telemetry": true,
+	"uid": "49854307-38d4-42b0-bf98-b7fd4fb2a053",
+}
