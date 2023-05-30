@@ -7,7 +7,8 @@
 3. Now restart your sublime text and wait for 10 minutes, it will download all packages and themes. 
 4. After complete restart Sublime text again. 
 
-### Enjoy coding 👨‍💻💕🤗. 
 
 <b>Note:</b> It will delete all of your installed packages and apply this setup packages so before apply this setting please take a backup of your old User file located here for windows user 
 `C:\Users\User\AppData\Roaming\Sublime Text\Packages\User`. 
+
+### Enjoy coding 👨‍💻💕🤗. 
